@@ -38,13 +38,36 @@ Python-based ABSA model identifying review aspects using TF-IDF and Random Fores
 
 ---
 
-## 🛠️ Skills & Technologies
+## 💻 Tech Stack:
 
-**Languages:** Java, Python, C  
-**Web Development:** HTML, CSS, JavaScript, Flask  
-**Data Science:** Pandas, NumPy, NLTK  
-**Tools & Frameworks:** Git, JUnit  
-**CS Fundamentals:** Data Structures and Algorithms, OOP
+<p align="center">
+  
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white"/>
+  
+  <!-- Web Development -->
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+  <!-- Data Science -->
+  <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLTK-%239B59B6?style=for-the-badge"/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit-%2325A162?style=for-the-badge"/>
+
+  <!-- CS Fundamentals -->
+  <img src="https://img.shields.io/badge/Data_Structures_and_Algorithms-%23000000?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-%237D4698?style=for-the-badge&logo=uml&logoColor=white"/>
+
+</p>
+
 
 ---
 
