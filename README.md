@@ -68,15 +68,6 @@ Python-based ABSA model identifying review aspects using TF-IDF and Random Fores
 
 ---
 
-## 🎓 Education
-
-**University of Washington – Seattle**  
-*Bachelor of Science in Computer Science*  
-- Cumulative GPA: 3.82  
-- Dean’s List (Autumn & Winter Quarter)
-
----
-
 ## 🌐 Connect with Me
 
 - 🔗 [LinkedIn](https://linkedin.com/in/akshithsaravanan/)  
