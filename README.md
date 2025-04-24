@@ -69,7 +69,6 @@ Python-based ABSA model identifying review aspects using TF-IDF and Random Fores
 ## 🌐 Connect with Me
 
 - 🔗 [LinkedIn](https://linkedin.com/in/akshithsaravanan/)  
-- 🧠 [GitHub](https://github.com/akshithsaravanan)  
 - 📧 akshithsaravanan@gmail.com  
 
 ---
