@@ -17,7 +17,6 @@ I'm a Computer Science undergraduate at the University of Washington - Seattle, 
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white"/>
 
   <!-- Web Development -->
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
