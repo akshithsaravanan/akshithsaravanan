@@ -40,8 +40,6 @@ Python-based ABSA model identifying review aspects using TF-IDF and Random Fores
 
 ## 💻 Tech Stack:
 
-## 💻 Tech Stack:
-
 <p align="center">
 
   <!-- Languages -->
