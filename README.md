@@ -50,7 +50,7 @@ A machine learning project predicting hospital discharge costs using the NY SPAR
 Python model identifying sentiment aspects with TF-IDF and Random Forest.
 
 ### 🌐 [Data Science Society Club Website](https://github.com/Data-Science-Society-at-UW/club-website)
-Official website for the UW Data Science Society, built collaboratively with peers.
+Official website for the UW Data Science Society.
 
 ---
 
