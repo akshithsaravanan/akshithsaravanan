@@ -1,76 +1,60 @@
-# Hi, I'm Akshith Saravanan 👋  
-Aspiring Software Engineer | AI/ML Enthusiast | Tech Innovator  
-Computer Science Major @ UW Seattle  
+# Hi, I'm Akshith Saravanan 👋
+
+**Aspiring Software Engineer | AI/ML Enthusiast | Tech Innovator**  
+**Computer Science Major @ University of Washington, Seattle**
 
 ---
 
 ## 📌 About Me
 
-I'm a Computer Science undergraduate at the University of Washington - Seattle, deeply passionate about using technology to solve real-world problems. My interests span across software engineering, artificial intelligence, machine learning, and full-stack web development. I believe in building scalable solutions, learning through collaboration, and turning ideas into impact.
+I’m a Computer Science undergraduate at UW Seattle who loves using technology to solve real-world challenges. My focus areas include AI/ML, NLP, and full-stack web development. I enjoy turning ideas into impactful solutions and collaborating with diverse teams to make a difference.
 
 ---
 
 ## 💻 Tech Stack
 
-<p align="center">
-
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-  <!-- Web Development -->
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white"/>
-
-  <!-- Data Science -->
-  <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLTK-%239B59B6?style=for-the-badge"/>
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JUnit-%2325A162?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-%230074C1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-</p>
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+![NLTK](https://img.shields.io/badge/-NLTK-85B946?style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square)
 
 ---
 
-## 💼 Experience
+## 🚀 Featured Projects
 
-**Software Engineer Intern – AI/ML Application**  
-*Mannai InfoTech, Doha, Qatar* (May '24 – Aug '24)  
-- Built a Flask-based text summarization web app to reduce manual analysis by 30%.  
-- Designed an NLP pipeline using NLTK for efficient and accurate information retrieval.  
-- Implemented aspect-based sentiment analysis with 76% accuracy using TF-IDF and Random Forest.
+### 🔗 [Startup Club Website](https://github.com/startupclubuw/startup-club)
+A responsive and animated platform created using HTML, CSS, and JavaScript to help students pitch and prototype startup ideas.
 
-**Founder & President – Startup Club**  
-*University of Washington*  
-- Launched a platform for students to pitch, collaborate, and prototype startup ideas.  
-- Organized networking sessions with peers and mentors to promote innovation.
+### 🤖 [AI-Driven Text Summarization App](https://github.com/akshithsaravanan/text-summarizer)
+Flask-based web app using NLP and NLTK to generate summaries and deliver real-time results for faster information retrieval.
 
----
+### 🧠 [Mental Health App (WIP)](https://github.com/AdiKum26/Mental-Health-App)
+In development — a user-friendly mental health tracking app using smart insights and AI for personalized well-being support.
 
-## 🚀 Projects
+### 📊 [DubsTech Health ML 2025](https://github.com/akshithsaravanan/DubsTech-Health-ML-2025)
+A machine learning project predicting hospital discharge costs using the NY SPARCS dataset (2009–2024).
 
-**🔗 [Startup Club Website](https://startupclubuw.com)**  
-A responsive and animated website created with HTML, CSS, and JavaScript.
+### 🧩 [Aspect-Based Sentiment Analysis (ABSA)](https://github.com/akshithsaravanan/absa)
+Python model identifying sentiment aspects with TF-IDF and Random Forest.
 
-**🧠 AI-Driven Text Summarization App**  
-Flask web app leveraging NLTK and NLP techniques to summarize text and deliver real-time results.
-
-**📊 Aspect-Based Sentiment Analysis (ABSA)**  
-Python-based ABSA model identifying review aspects using TF-IDF and Random Forest classifier.
+### 🌐 [Data Science Society Club Website](https://github.com/Data-Science-Society-at-UW/club-website)
+Official website for the UW Data Science Society, built collaboratively with peers.
 
 ---
 
-## 🌐 Connect with Me
+## 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/akshithsaravanan/)  
-- 📧 akshithsaravanan@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/akshithsaravanan/)
+- 📧 akshithsaravanan@gmail.com
 
 ---
 
-> “Passionate about creating impactful solutions through technology and innovation.”
+*“Turning innovative ideas into impactful solutions through technology.”*
