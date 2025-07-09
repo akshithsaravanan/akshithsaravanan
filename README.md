@@ -50,9 +50,6 @@ A user-friendly mental health tracking app using smart insights and AI for perso
 ### 📊 [DubsTech Health ML 2025](https://github.com/akshithsaravanan/DubsTech-Health-ML-2025)
 A machine learning project predicting hospital discharge costs using the NY SPARCS dataset (2009–2024).
 
-### 🌿 [Aspect-Based Sentiment Analysis (ABSA)](https://github.com/akshithsaravanan/absa)
-Python model identifying sentiment aspects with TF-IDF and Random Forest.
-
 ### 🌐 [Data Science Society Club Website](https://github.com/Data-Science-Society-at-UW/club-website)
 Official website for the UW Data Science Society.
 
