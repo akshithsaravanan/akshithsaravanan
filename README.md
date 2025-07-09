@@ -7,7 +7,7 @@
 
 ## 📌 About Me
 
-I’m a Computer Science undergraduate at UW Seattle who loves using technology to solve real-world challenges. My focus areas include AI/ML, NLP, and full-stack web development. I enjoy turning ideas into impactful solutions and collaborating with diverse teams to make a difference.
+I’m a Computer Science undergraduate at UW Seattle who loves using technology to solve real-world challenges. My focus areas include AI/ML, Software Development, and full-stack web development. I enjoy turning ideas into impactful solutions and collaborating with diverse teams to make a difference.
 
 ---
 
@@ -45,7 +45,7 @@ A responsive and animated platform created using HTML, CSS, and JavaScript to he
 Flask-based web app using NLP and NLTK to generate summaries and deliver real-time results for faster information retrieval.
 
 ### 🧠 [Mental Health App (WIP)](https://github.com/AdiKum26/Mental-Health-App)
-In development — a user-friendly mental health tracking app using smart insights and AI for personalized well-being support.
+A user-friendly mental health tracking app using smart insights and AI for personalized well-being support. (Currently under Development)
 
 ### 📊 [DubsTech Health ML 2025](https://github.com/akshithsaravanan/DubsTech-Health-ML-2025)
 A machine learning project predicting hospital discharge costs using the NY SPARCS dataset (2009–2024).
