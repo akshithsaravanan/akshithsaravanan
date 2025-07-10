@@ -41,7 +41,7 @@ I’m a Computer Science undergraduate at UW Seattle who loves using technology 
 ### 🔗 [Startup Club Website](https://github.com/startupclubuw/startup-club)
 A responsive and animated platform created using HTML, CSS, and JavaScript to help students pitch and prototype startup ideas.
 
-### 🤖 [AI-Driven Text Summarization App](https://github.com/akshithsaravanan/text-summarizer)
+### 🤖 [AI-Driven Text Summarization App](Private Repositary)
 Flask-based web app using NLP and NLTK to generate summaries and deliver real-time results for faster information retrieval.
 
 ### 🧠 [Mental Health App (WIP)](https://github.com/AdiKum26/Mental-Health-App)
