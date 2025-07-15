@@ -44,8 +44,8 @@ A responsive and animated platform created using HTML, CSS, and JavaScript to he
 ### 🤖 [AI-Driven Text Summarization App](Private Repositary)
 Flask-based web app using NLP and NLTK to generate summaries and deliver real-time results for faster information retrieval.
 
-### 🧠 [Mental Health App (WIP)](https://github.com/AdiKum26/Mental-Health-App)
-A user-friendly mental health tracking app using smart insights and AI for personalized well-being support. (Currently under Development)
+### 🧠 [Mental Health App (WIP)]
+A user-friendly mental health tracking app using smart insights and AI for personalized well-being support. (Repo is private while we debug and polish features for production readiness.)
 
 ### 📊 [DubsTech Health ML 2025](https://github.com/akshithsaravanan/DubsTech-Health-ML-2025)
 A machine learning project predicting hospital discharge costs using the NY SPARCS dataset (2009–2024).
