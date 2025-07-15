@@ -41,10 +41,10 @@ I’m a Computer Science undergraduate at UW Seattle who loves using technology 
 ### 🔗 [Startup Club Website](https://github.com/startupclubuw/startup-club)
 A responsive and animated platform created using HTML, CSS, and JavaScript to help students pitch and prototype startup ideas.
 
-### 🤖 [AI-Driven Text Summarization App](Repository is private due to internship related confidentiality.)
-Flask-based web app using NLP and NLTK to generate summaries and deliver real-time results for faster information retrieval.
+### 🤖 [AI-Driven Text Summarization App]
+Flask-based web app using NLP and NLTK to generate summaries and deliver real-time results for faster information retrieval. (Repository is private due to internship related confidentiality.)
 
-### 🧠 [Mental Health App (WIP)]
+### 🧠 [Mental Health App]
 A user-friendly mental health tracking app using smart insights and AI for personalized well-being support. (Repo is private while we debug and polish features for production readiness.)
 
 ### 📊 [DubsTech Health ML 2025](https://github.com/akshithsaravanan/DubsTech-Health-ML-2025)
