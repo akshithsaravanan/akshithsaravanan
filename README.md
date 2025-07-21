@@ -1,6 +1,6 @@
 # Hi, I'm Akshith Saravanan 
 
-**Computer Science student @ UW Seattle | Co-founder of OuraNote 🧠 | Web Developer at Data Science Society at UW | Passionate about AI/ML, full-stack development, and building meaningful products.**
+**Computer Science student @ UW Seattle | Co-founder of OuraNote | Web Developer @ Data Science Society at UW | Passionate about AI/ML, full-stack development, and building meaningful products.**
 
 ---
 
