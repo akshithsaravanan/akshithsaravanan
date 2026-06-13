@@ -1,27 +1,32 @@
 # Hi, I'm Akshith Saravanan 👋
 
-**CS @ UW Seattle | Incoming AI Research Intern @ Intellinum | LLM Security Researcher @ Paul G. Allen School | Technical Director & Secretary @ UW Data Science Society**
+**AI Research Intern @ Intellinum | CS @ UW Seattle | LLM Security Researcher @ Paul G. Allen School | Technical Director & Secretary @ UW Data Science Society | Prev. @ Intellinum & @ Mannai InfoTech**
 
-Passionate about AI, cybersecurity, quantitative finance, and building intelligent systems that create real-world impact.
+Building intelligent systems at the intersection of AI, security, and machine learning.
 
 ---
 
 ## 📌 About Me
 
-I'm a Computer Science undergraduate at the University of Washington, Seattle.
+I'm a Computer Science undergraduate at the **University of Washington, Seattle**, passionate about AI, cybersecurity, and building intelligent systems that solve real-world problems.
 
-Currently, I'm an **Incoming AI Research Intern at Intellinum** and an undergraduate researcher at the **Paul G. Allen School of Computer Science & Engineering**, where I study security risks in LLM-orchestrated agentic systems. My research focuses on understanding how proactive information seeking, memory, and tool use introduce new attack surfaces in AI agents.
+Currently, I'm an **AI Research Intern at Intellinum** and an undergraduate researcher at the **Paul G. Allen School of Computer Science & Engineering**, where I study security risks in **LLM-orchestrated agentic systems**. My research focuses on understanding how memory, proactive information seeking, and tool use introduce new attack surfaces in AI agents.
 
-Beyond research, I enjoy building practical systems and competing in technical challenges. I was a finalist in the **IMC Prosperity 4 Trading Challenge**, where my team advanced to the finals, reached the **Top 2% of teams before the final rounds**, and ultimately finished in the **Top 8% globally** after competing against **18,803 teams** and **30,703 participants** worldwide.
+Beyond research, I enjoy applying quantitative thinking to challenging problems. I was a finalist in the **IMC Prosperity 4 Trading Challenge**, where my team advanced to the finals, reached the **Top 2% of teams before the final rounds**, and ultimately finished in the **Top 8% globally** after competing against **18,803 teams** and **30,703 participants** worldwide.
 
-On campus, I serve as the **Technical Director and Secretary of the UW Data Science Society**, where I organize workshops, mentor students, conduct interviews, and help grow one of UW's largest technical communities.
+I'm also the **Technical Director and Secretary of the UW Data Science Society**, where I organize technical workshops, mentor students, conduct interviews, and help grow one of UW's largest student tech communities. Most recently, I organized **Everybody Hacks**, a fast-paced hackathon that brought together **80+ participants** across multiple tracks, fostering collaboration, creativity, and rapid problem solving.
 
-My interests lie at the intersection of:
+Previously, I placed **4th internationally** at the **DubsTech Datathon**, where I developed a machine learning model to predict hospital discharge costs using the NY SPARCS healthcare dataset.
+
+I'm also building **OuraNote**, a mental health journaling application that combines AI-assisted conversations, emotional tracking, geolocation-based insights, and personalized recommendations to help users better understand their mental well-being.
+
+### Areas of Interest
 
 - 🤖 AI & LLM Systems
 - 🔐 AI Security & Cybersecurity
-- 📈 Algorithmic Trading & Quantitative Finance
+- 🧠 Machine Learning
 - 💻 Full-Stack Software Engineering
+- 📊 Data Science
 
 ---
 
@@ -60,21 +65,45 @@ Team Follower of Bayes' submission to the IMC Prosperity 4 Trading Challenge. Ad
 
 A responsive and animated platform created using HTML, CSS, and JavaScript to help students pitch and prototype startup ideas.
 
-### 🤖 [AI-Driven Text Summarization App]
+### 🤖 AI-Driven Text Summarization App
 
-Flask-based web app using NLP and NLTK to generate summaries and deliver real-time results for faster information retrieval. (Repository is private due to internship related confidentiality.)
+Flask-based web app using NLP and NLTK to generate summaries and deliver real-time results for faster information retrieval.
+
+*(Repository is private due to internship related confidentiality.)*
 
 ### 🧠 [Mental Health App](https://mentalhealthapp-59913.web.app)
 
-A secure and expressive mental health journaling app built using React, Firebase, and Capacitor. Designed for self-reflection, emotional wellness, and future planning. (Private repo during active feature development and testing.)
+A secure and expressive mental health journaling app built using React, Firebase, and Capacitor. Designed for self-reflection, emotional wellness, and future planning.
+
+*(Private repo during active feature development and testing.)*
 
 ### 📊 [DubsTech Health ML 2025](https://github.com/akshithsaravanan/DubsTech-Health-ML-2025)
 
-A machine learning project predicting hospital discharge costs using the NY SPARCS dataset (2009–2024).
+A machine learning project predicting hospital discharge costs using the NY SPARCS dataset (2009–2024). Placed **4th internationally** at the DubsTech Datathon.
 
 ### 🌐 [Data Science Society Club Website](https://github.com/Data-Science-Society-at-UW/club-website)
 
 Official website for the UW Data Science Society.
+
+---
+
+## 🏆 Highlights
+
+- 🥈 Finalist, **IMC Prosperity 4 Trading Challenge**
+  - Top 2% of teams before finals
+  - Top 8% globally
+  - Competed against 18,803 teams and 30,703 participants
+
+- 🏅 **4th Place Internationally**, DubsTech Datathon
+  - Developed an ML model for hospital discharge cost prediction
+
+- 🎤 **Technical Director & Secretary**, UW Data Science Society
+  - Organized workshops and hackathons
+  - Mentored students and conducted interviews
+  - Organized **Everybody Hacks** with 80+ participants
+
+- 🔬 **LLM Security Researcher**, Paul G. Allen School
+  - Researching security risks in LLM-orchestrated agentic systems
 
 ---
 
