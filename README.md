@@ -1,12 +1,27 @@
-# Hi, I'm Akshith Saravanan 
+# Hi, I'm Akshith Saravanan 👋
 
-**Computer Science student @ UW Seattle | Co-founder of OuraNote | Technical Director & Secretary @ Data Science Society | Passionate about AI/ML, full-stack development, and building meaningful products.**
+**CS @ UW Seattle | Incoming AI Research Intern @ Intellinum | LLM Security Researcher @ Paul G. Allen School | Technical Director & Secretary @ UW Data Science Society**
+
+Passionate about AI, cybersecurity, quantitative finance, and building intelligent systems that create real-world impact.
 
 ---
 
 ## 📌 About Me
 
-I’m a Computer Science undergraduate at UW Seattle who loves using technology to solve real-world challenges. My focus areas include AI/ML, Software Development, and full-stack web development. I enjoy turning ideas into impactful solutions and collaborating with diverse teams to make a difference.
+I'm a Computer Science undergraduate at the University of Washington, Seattle.
+
+Currently, I'm an **Incoming AI Research Intern at Intellinum** and an undergraduate researcher at the **Paul G. Allen School of Computer Science & Engineering**, where I study security risks in LLM-orchestrated agentic systems. My research focuses on understanding how proactive information seeking, memory, and tool use introduce new attack surfaces in AI agents.
+
+Beyond research, I enjoy building practical systems and competing in technical challenges. I was a finalist in the **IMC Prosperity 4 Trading Challenge**, where my team advanced to the finals, reached the **Top 2% of teams before the final rounds**, and ultimately finished in the **Top 8% globally** after competing against **18,803 teams** and **30,703 participants** worldwide.
+
+On campus, I serve as the **Technical Director and Secretary of the UW Data Science Society**, where I organize workshops, mentor students, conduct interviews, and help grow one of UW's largest technical communities.
+
+My interests lie at the intersection of:
+
+- 🤖 AI & LLM Systems
+- 🔐 AI Security & Cybersecurity
+- 📈 Algorithmic Trading & Quantitative Finance
+- 💻 Full-Stack Software Engineering
 
 ---
 
@@ -37,19 +52,28 @@ I’m a Computer Science undergraduate at UW Seattle who loves using technology 
 
 ## 🚀 Featured Projects
 
+### 📈 [Follower of Bayes – IMC Prosperity 4](https://github.com/akshithsaravanan/Follower-of-Bayes-Prosperity-IMC-4)
+
+Team Follower of Bayes' submission to the IMC Prosperity 4 Trading Challenge. Advanced to the finals, reached the Top 2% of teams before the final rounds, and ultimately finished in the Top 8% globally after competing against 18,803 teams and 30,703 participants worldwide.
+
 ### 🔗 [Startup Club Website](https://github.com/startupclubuw/startup-club)
+
 A responsive and animated platform created using HTML, CSS, and JavaScript to help students pitch and prototype startup ideas.
 
 ### 🤖 [AI-Driven Text Summarization App]
+
 Flask-based web app using NLP and NLTK to generate summaries and deliver real-time results for faster information retrieval. (Repository is private due to internship related confidentiality.)
 
 ### 🧠 [Mental Health App](https://mentalhealthapp-59913.web.app)
+
 A secure and expressive mental health journaling app built using React, Firebase, and Capacitor. Designed for self-reflection, emotional wellness, and future planning. (Private repo during active feature development and testing.)
 
 ### 📊 [DubsTech Health ML 2025](https://github.com/akshithsaravanan/DubsTech-Health-ML-2025)
+
 A machine learning project predicting hospital discharge costs using the NY SPARCS dataset (2009–2024).
 
 ### 🌐 [Data Science Society Club Website](https://github.com/Data-Science-Society-at-UW/club-website)
+
 Official website for the UW Data Science Society.
 
 ---
